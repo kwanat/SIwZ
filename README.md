@@ -1,2 +1,1 @@
-# SIwZ
-Projekt z Systemów Informatycznych w Zarządzaniu
+Simple project in Spring Framework with Hibernate, AngularJS, Bootstrap and H2 database.
